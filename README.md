@@ -1,6 +1,5 @@
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=com.rodrigopeleias%3Abookstoremanager&metric=alert_status)](https://sonarcloud.io/dashboard?id=com.rodrigopeleias%3Abookstoremanager) 
 [![Build Status](https://travis-ci.com/alessandro-rc-ti/bookstoremanager.svg?token=J8iCrbVpgdz7qqQ2rUqw&branch=master)](https://travis-ci.com/alessandro-rc-ti/bookstoremanager)
-[![Build Status](https://travis-ci.com/alessandro-rc-ti/library-test.svg?branch=master)](https://travis-ci.com/alessandro-rc-ti/library-test)
 
 <h2>Bookstore API Manager</h2>
 

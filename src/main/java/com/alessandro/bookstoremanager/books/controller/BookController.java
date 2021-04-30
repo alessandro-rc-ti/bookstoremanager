@@ -68,8 +68,4 @@ public class BookController implements BookControllerDocs {
         return bookService.updateByIdAndUser(authenticatedUser, bookId, bookRequestDTO);
     }
     
-    @GetMapping
-    public String hello() {
-		return "Hello book manager, i am running 1";
-	}
 }
